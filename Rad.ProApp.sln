@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DC74582-433D-4108-978D-670E63CAEB37}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{74E28523-0B0D-456D-85B0-F93D927071E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadAppPro.Pwa", "RadAppPro.Pwa\RadAppPro.Pwa.csproj", "{A3456D39-F790-4386-8851-C714D26B9636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E28523-0B0D-456D-85B0-F93D927071E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E28523-0B0D-456D-85B0-F93D927071E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E28523-0B0D-456D-85B0-F93D927071E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E28523-0B0D-456D-85B0-F93D927071E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3456D39-F790-4386-8851-C714D26B9636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3456D39-F790-4386-8851-C714D26B9636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3456D39-F790-4386-8851-C714D26B9636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3456D39-F790-4386-8851-C714D26B9636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47B31A4-B623-4928-AC8B-C991A4496221}
+	EndGlobalSection
+EndGlobal
